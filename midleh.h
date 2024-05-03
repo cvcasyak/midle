@@ -1,5 +1,4 @@
-#ifndef MIDLEH_H_INCLUDED
-#define MIDLEH_H_INCLUDED
+#include "middle.h"
 
 void itc_num_print(int number);
 int itc_len_num(long long number);
